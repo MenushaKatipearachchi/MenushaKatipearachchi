@@ -34,7 +34,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Bogota's weather table -->
 
-<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
+<h2 align="center"> Sri Lanka's Weather ⛅ </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
