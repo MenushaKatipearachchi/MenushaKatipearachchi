@@ -162,7 +162,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## Activity Graph
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
 
 <br>
