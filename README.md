@@ -44,11 +44,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>few clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02d.png></td>
-        <td><b>10°C</b></td>
-        <td><b>05:52 AM</b></td>
-        <td><b>05:44 PM</b></td>
-        <td><b>93%</b></td>
+        <td><b>cloudy</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02d.png></td>
+        <td><b>26°C</b></td>
+        <td><b>06:11 AM</b></td>
+        <td><b>05:55 PM</b></td>
+        <td><b>77%</b></td>
     </tr>
 </table>
 
@@ -58,28 +58,25 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SENA**
+          🔭 I’m currently studying at **SLIIT**
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source Proyects
         </li>
         <li>
-          🌱 I’m currently learning Django & NestJS; 
+          🌱 I’m currently learning Image Procesing and Understating & Machine Learning; 
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/MenushaKatipearachchi?tab=repositories)
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/menusha-katipearachchi-bb057b205/)
         </li>
         <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+          🎸 When I am free, I like to play the guitar
         </li>
     </td>
     <td style="border: none;">
