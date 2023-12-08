@@ -175,6 +175,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 Last refresh: <b>Friday, December 8, 7:17 AM GMT-5</b>
 
 <!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MenushaKatipearachchi/MenushaKatipearachchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
