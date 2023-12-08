@@ -132,7 +132,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Menusha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MenushaKatipearachchi&show_icons=true&theme=transparent" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Menusha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenushaKatipearachchi&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Menusha's Top Languages" src="![Menusha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
