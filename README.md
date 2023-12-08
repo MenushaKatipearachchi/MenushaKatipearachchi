@@ -163,7 +163,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 ## Activity Graph
 <p align="center">
 <!--   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
-  [(https://github-readme-activity-graph.vercel.app/graph?username=MenushaKatipearachchi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align="left" width="45%" height="150px" src="https://github-readme-activity-graph.vercel.app/graph?username=MenushaKatipearachchi&theme=tokyo-night" alt="activity-graph"></a>
 </p>
 
 <br>
