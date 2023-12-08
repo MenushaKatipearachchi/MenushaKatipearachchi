@@ -79,9 +79,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           🎸 When I am free, I like to play the guitar
         </li>
     </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-    </td>
   </tr>
 </table>
 <br><br><br>
