@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
     </a>
     <a href="https://twitter.com/EshonEDw">
-      <img src="">
+      <img src="https://img.shields.io/badge/twitter-7cebf5?&style=for-the-badge&logo=twitter&logoColor=black">
     </a>
     <a href="https://www.linkedin.com/in/menusha-katipearachchi-bb057b205">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
