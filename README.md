@@ -64,7 +64,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           🤝 I’m looking to collaborate on Open Source Projects
         </li>
         <li>
-          🌱 I’m currently learning Image Procesing and Understating & Machine Learning; 
+          🌱 I’m currently learning Image Processing and Understanding & Machine Learning; 
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/MenushaKatipearachchi?tab=repositories)
