@@ -70,7 +70,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/MenushaKatipearachchi?tab=repositories)
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          💬 Ask me about anything tech related, I am happy to help (if you have questions with Windows you can ask me🐧);
         </li>
         <li>
           📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/menusha-katipearachchi-bb057b205/)
