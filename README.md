@@ -141,13 +141,12 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/MenushaKatipearachchi/DS-Y3S1-PROJECT"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MenushaKatipearachchi&repo=DS-Y3S1-PROJECT&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/MenushaKatipearachchi/AF_PROJECT_G34"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MenushaKatipearachchi&repo=AF_PROJECT_G34&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+    <a href="https://github.com/MenushaKatipearachchi/SPM_Project"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=MenushaKatipearachchi&repo=SPM_Project&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
 </p>
 
