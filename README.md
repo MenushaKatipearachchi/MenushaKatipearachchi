@@ -23,7 +23,7 @@
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Eyyyy!!! <br />
+Hi!!! <br />
 I am <b>Menusha Eshan Katipearachchi</b> better known as 'Menusha'🕵🏼‍♂️ <br />
 I am from <strong>Kelaniya, Sri Lanka</strong>☕☕ <br />
 I'm a guy who love develop new things 🖥️ <br />
