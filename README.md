@@ -27,7 +27,7 @@ Hi!!! <br />
 I am <b>Menusha Eshan Katipearachchi</b> better known as 'Menusha'🕵🏼‍♂️ <br />
 I am from <strong>Colombo, Sri Lanka</strong>☕☕ <br />
 I'm a guy who loves to develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
+So... I am more superior than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
