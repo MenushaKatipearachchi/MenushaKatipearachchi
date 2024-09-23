@@ -1,5 +1,8 @@
 <a href="https://github.com/MenushaKatipearachchi">![MenushaKatipearachchi Profile GIF](./assets/profile_presentation.gif)</a>
 
+<!-- Trophies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MenushaKatipearachchi" alt="MenushaKatipearachchi" /></a> </p>
+
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
@@ -157,6 +160,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="left">
   <a href="https://github.com/MenushaKatipearachchi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+<!-- Streak -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MenushaKatipearachchi&show_icons=true&locale=en&layout=compact" alt="MenushaKatipearachchi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MenushaKatipearachchi&show_icons=true&locale=en" alt="MenushaKatipearachchi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MenushaKatipearachchi&" alt="MenushaKatipearachchi" /></p>
 
 <!-- last activity section -->
 
