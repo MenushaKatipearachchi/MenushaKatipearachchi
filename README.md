@@ -1,7 +1,7 @@
 <a href="https://github.com/MenushaKatipearachchi">![MenushaKatipearachchi Profile GIF](./assets/profile_presentation.gif)</a> <br><br>
 
 <!-- Trophies -->
-## 🏆 GitHub Trophies
+<h1 align="center"> 🏆 GitHub Trophies </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MenushaKatipearachchi" alt="MenushaKatipearachchi" /></a> </p>
 
 <!-- Social icons section -->
