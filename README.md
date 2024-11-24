@@ -129,14 +129,19 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## 📊 Github stats
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<!-- Based on: https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenushaKatipearachchi&hide_border=false&theme=trasparent" alt="GitHub Streak Stats" />
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Menusha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MenushaKatipearachchi&show_icons=true&theme=transparent" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Menusha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenushaKatipearachchi&layout=compact" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Menusha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MenushaKatipearachchi&show_icons=true&theme=transparent" height="192px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Menusha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenushaKatipearachchi&layout=compact" height="192px" />
+  </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+</div>
 
 <!-- Projects section -->
 
