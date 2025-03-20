@@ -62,7 +62,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SLIIT**
+          🔭 I am a Software Engineer Graduate at **SLIIT**
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source Projects
